@@ -6,7 +6,7 @@
 
 ---
 
-#### This was a refactoring project for Horiseon Social Solution Services, Inc., a startup marketing agency. They sought to optimize their website for search engines and ensure their codebase followed accessibility standards. 
+#### This was a refactoring project for Horiseon Social Solution Services, Inc., a startup marketing agency. The project scope sought to optimize the Horiseon website for search engines and ensure its codebase followed accessibility standards. 
 
 #### Completion of the acceptance criteria implemented the following items:
 #####   - Semantic HTML elements which follow a logical structure independent of styling and positioning
@@ -19,7 +19,7 @@
 <img src="assets/images/screenshot-b.png" alt="Horiseon website image"
 	title="screenshot" width="auto" height="850" />
   
-#### Articles and sites which supported the successful completion of this project are listed below:
+#### Articles and sites which contributed toward the successful completion of this project are included below:
 
 [Semantic HTML](https://www.pluralsight.com/guides/semantic-html)  <br>
 [Learn CSS Layout](https://learnlayout.com/no-layout.html) <br>
