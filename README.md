@@ -26,3 +26,4 @@
 [How To Style Images With Markdown Blog](https://www.xaprb.com/blog/how-to-style-images-with-markdown/) <br>
 [Shields IO](https://shields.io/) <br>
 
+#### [Refactor repo] - (https://onomatopoetica.github.io/01-code-refactor/) <br>
