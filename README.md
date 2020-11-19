@@ -26,5 +26,6 @@
 [How To Style Images With Markdown Blog](https://www.xaprb.com/blog/how-to-style-images-with-markdown/) <br>
 [Shields IO](https://shields.io/) <br>
 
-#### Refactor Repo is located at https://onomatopoetica.github.io/01-code-refactor/ <br>
+#### Refactor Project Repo & GitHub links: <br>
+[Repo](https://onomatopoetica.github.io/01-code-refactor/) <br>
 [GitHub](https://github.com/onomatopoetica/01-code-refactor)
